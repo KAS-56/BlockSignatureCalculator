@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamTestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "z:\\credit_14.05.2021.zip 4096"
+    }
+  }
+}
